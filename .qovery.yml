@@ -1,5 +1,5 @@
 application:
-  name: gatsby
+  name: gatsbyTest
   project: getting-started
 routers:
 - name: main
