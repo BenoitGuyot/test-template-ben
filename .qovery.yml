@@ -1,0 +1,9 @@
+application:
+  name: gatsby
+  project: getting-started
+routers:
+- name: main
+  routes:
+  - application_name: gatsby
+    paths:
+    - /*
